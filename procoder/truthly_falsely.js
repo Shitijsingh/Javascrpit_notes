@@ -4,7 +4,7 @@
 
 // console.log(-Infinity)
 
-// console.log(NaN ,0) only false in number
+// console.log(NaN ,0,-0) only false in number
 
 // String show false
 
